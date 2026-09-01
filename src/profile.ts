@@ -16,26 +16,26 @@
 
 export const profile = {
   /** Your name as you want it to appear everywhere. */
-  displayName: "Your Name",
+  displayName: "Matthew Galanaugh",
 
   /** Your UD email — must match the one you signed into the course with. */
-  email: "you@udel.edu",
+  email: "mattgal@udel.edu",
 
   /** Where you're from. Shows on your roster card and /about. */
-  hometown: "Newark, Delaware",
+  hometown: "Glenolden, Pennsylvania",
 
   /**
    * 2 to 4 fun facts (the grader checks the count!). Real ones: they're
    * how classmates find something to say hello about.
    */
   funFacts: [
-    "I once assembled IKEA furniture without leftover screws.",
-    "I can name every U.S. state capital in under two minutes.",
+    "I like to travel and explore new places.",
+    "Video games and TV shows are my guilty pleasures.",
   ],
 
   /** One decision you're proud of, in a sentence. */
   decisionImProudOf:
-    "I chose to take a gap semester to work retail; it taught me more about customers than any textbook.",
+    "I listened to my advisor freshman year and took on a double major in Accounting and Business Analytics",
 
   /**
    * Your photo. Replace public/photo.svg with a real photo of you
@@ -58,12 +58,12 @@ export const profile = {
    * A short bio for your home page: two or three sentences, written like
    * a person, not a resume. What are you studying? What do you care about?
    */
-  bio: "I'm a business student at the University of Delaware learning to make good decisions at any scale. This site is my working portfolio: every course challenge deploys here as a live service.",
+  bio: "I'm a senior at the University of Delaware studying Accounting and Business Analytics. I care about being the best version of myself and appreciating the little things in life.",
 
   /**
    * Your GitHub repo URL. The course platform reads this from /api/health to
    * verify you have ≥ 5 commits spread over days (not one bulk dump).
    * Example: "https://github.com/your-username/your-repo"
    */
-  repoUrl: "https://github.com/your-username/your-repo",
+  repoUrl: "https://github.com/mattgal05/my-site",
 };
