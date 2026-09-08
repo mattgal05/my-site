@@ -30,7 +30,7 @@ export const profile = {
    */
   funFacts: [
     "I like to travel and explore new places.",
-    "I enjoy playing video games and watchingTV shows.",
+    "I enjoy playing video games and watching TV shows.",
   ],
 
   /** One decision you're proud of, in a sentence. */
@@ -42,7 +42,7 @@ export const profile = {
    * (e.g. put photo.jpg in the public/ folder and change this to "/photo.jpg").
    * It must be a real image file: the grader fetches it and checks.
    */
-  photoPath: "C:/projects/my-site/public/photo.jpg",
+  photoPath: "/photo.jpg",
 
   /**
    * Who can see your roster card:
