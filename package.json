@@ -3,6 +3,7 @@
   "version": "0.1.0",
   "private": true,
   "scripts": {
+    "try-reasoning": "node scripts/try-reasoning.mjs",
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
