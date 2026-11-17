@@ -5,6 +5,7 @@
   "scripts": {
     "try-reasoning": "node scripts/try-reasoning.mjs",
     "try-simulator": "node scripts/try-simulator.mjs",
+    "try-causality": "node scripts/try-causality.mjs",
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
